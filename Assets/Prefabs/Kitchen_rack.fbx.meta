@@ -1,0 +1,348 @@
+fileFormatVersion: 2
+guid: e77f983ed479d45a3814bb3495b1fbe7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Handle
+    100002: Handle 1
+    100004: Handle 2
+    100006: hanger
+    100008: //RootNode
+    100010: Knife
+    100012: Knife 1
+    100014: Knife 2
+    100016: Knife 3
+    100018: Knife1
+    100020: Knife2
+    100022: KnifeHandle
+    100024: KnifeHandle 1
+    100026: KnifeHandle 2
+    100028: Pan
+    100030: Pan 1
+    100032: Pan 2
+    100034: Pan 3
+    100036: Pan1
+    100038: Pan3
+    100040: Pan4
+    100042: Pan5
+    100044: PanMetal
+    100046: PanMetal 1
+    100048: PanMetal 2
+    100050: PanThing
+    100052: PanThing 1
+    100054: PanThing 2
+    100056: Pot
+    100058: Pot 1
+    100060: Pot 2
+    100062: Pot 3
+    100064: Pot1
+    100066: Pot2
+    100068: Pot_handleLf
+    100070: Pot_handleLf 1
+    100072: Pot_handleLf 2
+    100074: Pot_handleRt
+    100076: Pot_handleRt 1
+    100078: Pot_handleRt 2
+    100080: Pot_thing
+    100082: Pot_thing 1
+    100084: Pot_thing 2
+    100086: Pot_thing1
+    100088: Pot_thing1 1
+    100090: Pot_thing1 2
+    100092: Pot_thing10
+    100094: Pot_thing10 1
+    100096: Pot_thing10 2
+    100098: Pot_thing9
+    100100: Pot_thing9 1
+    100102: Pot_thing9 2
+    100104: ScoopGRP
+    100106: Screw
+    100108: Screw 1
+    100110: Screw 2
+    100112: Screw 3
+    100114: Screw 4
+    400000: Handle
+    400002: Handle 1
+    400004: Handle 2
+    400006: hanger
+    400008: //RootNode
+    400010: Knife
+    400012: Knife 1
+    400014: Knife 2
+    400016: Knife 3
+    400018: Knife1
+    400020: Knife2
+    400022: KnifeHandle
+    400024: KnifeHandle 1
+    400026: KnifeHandle 2
+    400028: Pan
+    400030: Pan 1
+    400032: Pan 2
+    400034: Pan 3
+    400036: Pan1
+    400038: Pan3
+    400040: Pan4
+    400042: Pan5
+    400044: PanMetal
+    400046: PanMetal 1
+    400048: PanMetal 2
+    400050: PanThing
+    400052: PanThing 1
+    400054: PanThing 2
+    400056: Pot
+    400058: Pot 1
+    400060: Pot 2
+    400062: Pot 3
+    400064: Pot1
+    400066: Pot2
+    400068: Pot_handleLf
+    400070: Pot_handleLf 1
+    400072: Pot_handleLf 2
+    400074: Pot_handleRt
+    400076: Pot_handleRt 1
+    400078: Pot_handleRt 2
+    400080: Pot_thing
+    400082: Pot_thing 1
+    400084: Pot_thing 2
+    400086: Pot_thing1
+    400088: Pot_thing1 1
+    400090: Pot_thing1 2
+    400092: Pot_thing10
+    400094: Pot_thing10 1
+    400096: Pot_thing10 2
+    400098: Pot_thing9
+    400100: Pot_thing9 1
+    400102: Pot_thing9 2
+    400104: ScoopGRP
+    400106: Screw
+    400108: Screw 1
+    400110: Screw 2
+    400112: Screw 3
+    400114: Screw 4
+    2100000: MEtalPhong
+    2100002: MetalPhong
+    2100004: lambert4
+    2100006: lambert1
+    2100008: lambert5
+    2100010: phong5
+    2300000: Handle
+    2300002: Handle 1
+    2300004: Handle 2
+    2300006: hanger
+    2300008: Knife 1
+    2300010: Knife 2
+    2300012: Knife 3
+    2300014: KnifeHandle
+    2300016: KnifeHandle 1
+    2300018: KnifeHandle 2
+    2300020: Pan 1
+    2300022: Pan 2
+    2300024: Pan 3
+    2300026: PanMetal
+    2300028: PanMetal 1
+    2300030: PanMetal 2
+    2300032: PanThing
+    2300034: PanThing 1
+    2300036: PanThing 2
+    2300038: Pot 1
+    2300040: Pot 2
+    2300042: Pot 3
+    2300044: Pot_handleLf
+    2300046: Pot_handleLf 1
+    2300048: Pot_handleLf 2
+    2300050: Pot_handleRt
+    2300052: Pot_handleRt 1
+    2300054: Pot_handleRt 2
+    2300056: Pot_thing
+    2300058: Pot_thing 1
+    2300060: Pot_thing 2
+    2300062: Pot_thing1
+    2300064: Pot_thing1 1
+    2300066: Pot_thing1 2
+    2300068: Pot_thing10
+    2300070: Pot_thing10 1
+    2300072: Pot_thing10 2
+    2300074: Pot_thing9
+    2300076: Pot_thing9 1
+    2300078: Pot_thing9 2
+    2300080: Screw
+    2300082: Screw 1
+    2300084: Screw 2
+    2300086: Screw 3
+    2300088: Screw 4
+    3300000: Handle
+    3300002: Handle 1
+    3300004: Handle 2
+    3300006: hanger
+    3300008: Knife 1
+    3300010: Knife 2
+    3300012: Knife 3
+    3300014: KnifeHandle
+    3300016: KnifeHandle 1
+    3300018: KnifeHandle 2
+    3300020: Pan 1
+    3300022: Pan 2
+    3300024: Pan 3
+    3300026: PanMetal
+    3300028: PanMetal 1
+    3300030: PanMetal 2
+    3300032: PanThing
+    3300034: PanThing 1
+    3300036: PanThing 2
+    3300038: Pot 1
+    3300040: Pot 2
+    3300042: Pot 3
+    3300044: Pot_handleLf
+    3300046: Pot_handleLf 1
+    3300048: Pot_handleLf 2
+    3300050: Pot_handleRt
+    3300052: Pot_handleRt 1
+    3300054: Pot_handleRt 2
+    3300056: Pot_thing
+    3300058: Pot_thing 1
+    3300060: Pot_thing 2
+    3300062: Pot_thing1
+    3300064: Pot_thing1 1
+    3300066: Pot_thing1 2
+    3300068: Pot_thing10
+    3300070: Pot_thing10 1
+    3300072: Pot_thing10 2
+    3300074: Pot_thing9
+    3300076: Pot_thing9 1
+    3300078: Pot_thing9 2
+    3300080: Screw
+    3300082: Screw 1
+    3300084: Screw 2
+    3300086: Screw 3
+    3300088: Screw 4
+    4300000: Pan
+    4300002: PanMetal
+    4300004: PanThing
+    4300006: Handle
+    4300008: Screw
+    4300010: KnifeHandle
+    4300012: Knife
+    4300014: Pot
+    4300016: Pot_thing
+    4300018: Pot_handleRt
+    4300020: Pot_thing1
+    4300022: Pot_thing9
+    4300024: Pot_handleLf
+    4300026: Pot_thing10
+    4300028: Screw
+    4300030: Screw
+    4300032: Pot
+    4300034: Pot_thing
+    4300036: Pot_handleRt
+    4300038: Pot_thing1
+    4300040: Pot_thing9
+    4300042: Pot_handleLf
+    4300044: Pot_thing10
+    4300046: Pot
+    4300048: Pot_thing
+    4300050: Pot_handleRt
+    4300052: Pot_thing1
+    4300054: Pot_thing9
+    4300056: Pot_handleLf
+    4300058: Pot_thing10
+    4300060: Pan
+    4300062: PanMetal
+    4300064: PanThing
+    4300066: Handle
+    4300068: Screw
+    4300070: Pan
+    4300072: PanMetal
+    4300074: PanThing
+    4300076: Handle
+    4300078: Screw
+    4300080: KnifeHandle
+    4300082: Knife
+    4300084: KnifeHandle
+    4300086: Knife
+    4300088: hanger
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

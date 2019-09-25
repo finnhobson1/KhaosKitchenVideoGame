@@ -1,0 +1,287 @@
+fileFormatVersion: 2
+guid: 357e722e7aad24ae288b6a488b613d20
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Condiment_Table
+    100002: //RootNode
+    100004: Ketchup_Bottle
+    100006: Ketchup_Bottle1
+    100008: Mustard_Bottle
+    100010: Mustard_Bottle1
+    100012: pCone10
+    100014: pCone11
+    100016: pCone12
+    100018: pCone13
+    100020: pCone13 1
+    100022: pCone13 2
+    100024: pCone13 3
+    100026: pCone7
+    100028: pCone8
+    100030: pCone9
+    100032: pCube1
+    100034: pCube10
+    100036: pCube11
+    100038: pCube12
+    100040: pCube13
+    100042: pCube14
+    100044: pCube15
+    100046: pCube2
+    100048: pCube3
+    100050: pCube4
+    100052: pCube6
+    100054: pCube7
+    100056: pCube8
+    100058: pCube9
+    100060: pCylinder10
+    100062: pCylinder11
+    100064: pCylinder12
+    100066: pCylinder13
+    100068: pCylinder14
+    100070: pCylinder14 1
+    100072: pCylinder14 2
+    100074: pCylinder14 3
+    100076: pCylinder15
+    100078: pCylinder15 1
+    100080: pCylinder15 2
+    100082: pCylinder15 3
+    100084: pCylinder8
+    100086: pCylinder9
+    100088: transform1
+    100090: transform10
+    100092: transform11
+    100094: transform12
+    100096: transform2
+    100098: transform3
+    100100: transform4
+    100102: transform5
+    100104: transform6
+    100106: transform7
+    100108: transform8
+    100110: transform9
+    400000: Condiment_Table
+    400002: //RootNode
+    400004: Ketchup_Bottle
+    400006: Ketchup_Bottle1
+    400008: Mustard_Bottle
+    400010: Mustard_Bottle1
+    400012: pCone10
+    400014: pCone11
+    400016: pCone12
+    400018: pCone13
+    400020: pCone13 1
+    400022: pCone13 2
+    400024: pCone13 3
+    400026: pCone7
+    400028: pCone8
+    400030: pCone9
+    400032: pCube1
+    400034: pCube10
+    400036: pCube11
+    400038: pCube12
+    400040: pCube13
+    400042: pCube14
+    400044: pCube15
+    400046: pCube2
+    400048: pCube3
+    400050: pCube4
+    400052: pCube6
+    400054: pCube7
+    400056: pCube8
+    400058: pCube9
+    400060: pCylinder10
+    400062: pCylinder11
+    400064: pCylinder12
+    400066: pCylinder13
+    400068: pCylinder14
+    400070: pCylinder14 1
+    400072: pCylinder14 2
+    400074: pCylinder14 3
+    400076: pCylinder15
+    400078: pCylinder15 1
+    400080: pCylinder15 2
+    400082: pCylinder15 3
+    400084: pCylinder8
+    400086: pCylinder9
+    400088: transform1
+    400090: transform10
+    400092: transform11
+    400094: transform12
+    400096: transform2
+    400098: transform3
+    400100: transform4
+    400102: transform5
+    400104: transform6
+    400106: transform7
+    400108: transform8
+    400110: transform9
+    2100000: phong1
+    2100002: phong2
+    2100004: blinn1
+    2100006: lambert4
+    2100008: lambert3
+    2100010: lambert1
+    2300000: pCone10
+    2300002: pCone11
+    2300004: pCone13
+    2300006: pCone13 1
+    2300008: pCone13 2
+    2300010: pCone13 3
+    2300012: pCone7
+    2300014: pCone8
+    2300016: pCone9
+    2300018: pCube14
+    2300020: pCube7
+    2300022: pCube8
+    2300024: pCylinder10
+    2300026: pCylinder11
+    2300028: pCylinder12
+    2300030: pCylinder13
+    2300032: pCylinder14
+    2300034: pCylinder14 1
+    2300036: pCylinder14 2
+    2300038: pCylinder14 3
+    2300040: pCylinder15
+    2300042: pCylinder15 1
+    2300044: pCylinder15 2
+    2300046: pCylinder15 3
+    2300048: pCylinder8
+    2300050: pCylinder9
+    3300000: pCone10
+    3300002: pCone11
+    3300004: pCone13
+    3300006: pCone13 1
+    3300008: pCone13 2
+    3300010: pCone13 3
+    3300012: pCone7
+    3300014: pCone8
+    3300016: pCone9
+    3300018: pCube14
+    3300020: pCube7
+    3300022: pCube8
+    3300024: pCylinder10
+    3300026: pCylinder11
+    3300028: pCylinder12
+    3300030: pCylinder13
+    3300032: pCylinder14
+    3300034: pCylinder14 1
+    3300036: pCylinder14 2
+    3300038: pCylinder14 3
+    3300040: pCylinder15
+    3300042: pCylinder15 1
+    3300044: pCylinder15 2
+    3300046: pCylinder15 3
+    3300048: pCylinder8
+    3300050: pCylinder9
+    4300000: pCylinder14
+    4300002: pCylinder15
+    4300004: pCone13
+    4300006: pCylinder14
+    4300008: pCylinder15
+    4300010: pCone13
+    4300012: pCylinder14
+    4300014: pCylinder15
+    4300016: pCone13
+    4300018: pCylinder14
+    4300020: pCylinder15
+    4300022: pCone13
+    4300024: pCylinder8
+    4300026: pCone7
+    4300028: pCube7
+    4300030: pCube8
+    4300032: pCylinder9
+    4300034: pCone8
+    4300036: pCylinder10
+    4300038: pCone9
+    4300040: pCylinder11
+    4300042: pCylinder12
+    4300044: pCone10
+    4300046: pCone11
+    4300048: pCylinder13
+    4300050: pCube14
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

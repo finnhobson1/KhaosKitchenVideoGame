@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 6f0be7537ffcb4917acddd3dd85685be
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bevelPolygon1
+    100002: bevelPolygon2
+    100004: bevelPolygon3
+    100006: bevelPolygon4
+    100008: Body
+    100010: Bottom
+    100012: Customer1
+    100014: //RootNode
+    100016: Eyes
+    100018: Head
+    100020: LeftHand
+    100022: LeftShoe
+    100024: Nose
+    100026: nurbsSphere5
+    100028: nurbsSphere6
+    100030: nurbsSphere7
+    100032: nurbsSphere8
+    100034: nurbsToPoly1
+    100036: nurbsToPoly2
+    100038: pSphere1
+    100040: RightHand
+    100042: RightShoe
+    100044: Top
+    400000: bevelPolygon1
+    400002: bevelPolygon2
+    400004: bevelPolygon3
+    400006: bevelPolygon4
+    400008: Body
+    400010: Bottom
+    400012: Customer1
+    400014: //RootNode
+    400016: Eyes
+    400018: Head
+    400020: LeftHand
+    400022: LeftShoe
+    400024: Nose
+    400026: nurbsSphere5
+    400028: nurbsSphere6
+    400030: nurbsSphere7
+    400032: nurbsSphere8
+    400034: nurbsToPoly1
+    400036: nurbsToPoly2
+    400038: pSphere1
+    400040: RightHand
+    400042: RightShoe
+    400044: Top
+    2100000: lambert7
+    2100002: lambert4
+    2100004: blinn1
+    2100006: blinn2
+    2100008: lambert6
+    2100010: lambert17
+    2100012: lambert16
+    2100014: lambert14
+    2100016: lambert13
+    2100018: lambert15
+    2300000: bevelPolygon1
+    2300002: bevelPolygon2
+    2300004: bevelPolygon3
+    2300006: bevelPolygon4
+    2300008: Bottom
+    2300010: Head
+    2300012: LeftHand
+    2300014: LeftShoe
+    2300016: Nose
+    2300018: nurbsSphere5
+    2300020: nurbsSphere6
+    2300022: nurbsSphere7
+    2300024: nurbsSphere8
+    2300026: nurbsToPoly1
+    2300028: nurbsToPoly2
+    2300030: pSphere1
+    2300032: RightHand
+    2300034: RightShoe
+    2300036: Top
+    3300000: bevelPolygon1
+    3300002: bevelPolygon2
+    3300004: bevelPolygon3
+    3300006: bevelPolygon4
+    3300008: Bottom
+    3300010: Head
+    3300012: LeftHand
+    3300014: LeftShoe
+    3300016: Nose
+    3300018: nurbsSphere5
+    3300020: nurbsSphere6
+    3300022: nurbsSphere7
+    3300024: nurbsSphere8
+    3300026: nurbsToPoly1
+    3300028: nurbsToPoly2
+    3300030: pSphere1
+    3300032: RightHand
+    3300034: RightShoe
+    3300036: Top
+    4300000: bevelPolygon2
+    4300002: bevelPolygon1
+    4300004: Head
+    4300006: Nose
+    4300008: RightShoe
+    4300010: LeftShoe
+    4300012: RightHand
+    4300014: LeftHand
+    4300016: nurbsSphere6
+    4300018: nurbsSphere5
+    4300020: nurbsToPoly1
+    4300022: nurbsToPoly2
+    4300024: Bottom
+    4300026: Top
+    4300028: bevelPolygon3
+    4300030: bevelPolygon4
+    4300032: nurbsSphere7
+    4300034: nurbsSphere8
+    4300036: pSphere1
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

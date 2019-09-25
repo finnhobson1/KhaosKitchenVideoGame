@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d99c1231a1d8d3d4780934534b24012a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BackgroundClip: {fileID: 8300000, guid: cf3a37f41179f564096e65c924f218aa, type: 3}
+  - BackgroundMusicSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

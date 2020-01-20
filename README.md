@@ -2,7 +2,7 @@
 
 Khaos Kitchen Mobile is a fast-paced mobile party game where 2-8 players become the staff of a crazy kitchen! Players must work together to perform a wide range of actions to keep their restaurant open for as long as possible.
 
-Khaos Kitchen was created by 6 students from the University of Bristol. It was developed using Unity Game Engine and C++. All of the in-game models and animations were created using Autodesk Maya.
+Khaos Kitchen was created by 6 students from the University of Bristol. It was developed using Unity Game Engine and C#. All of the in-game models and animations were created using Autodesk Maya.
 
 The game makes use of the full range of modern smartphone hardware features. The players are instructed to complete a variety of tasks using the accelerometer, microphone, camera and NFC scanner throughout the rounds. 
 
